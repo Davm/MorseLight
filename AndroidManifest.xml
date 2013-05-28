@@ -8,6 +8,7 @@
         android:minSdkVersion="10"
         android:targetSdkVersion="10" />
 
+    <!--  Editing Code to screw with git -->
     <!-- Allows access to the flashlight -->
  	<permission android:name="android.permission.FLASHLIGHT"
              android:permissionGroup="android.permission-group.HARDWARE_CONTROLS"

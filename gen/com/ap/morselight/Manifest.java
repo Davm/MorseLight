@@ -9,7 +9,8 @@ package com.ap.morselight;
 
 public final class Manifest {
     public static final class permission {
-        /**  Allows access to the flashlight 
+        /**   Editing Code to screw with git 
+ Allows access to the flashlight 
          */
         public static final String FLASHLIGHT="android.permission.FLASHLIGHT";
     }
